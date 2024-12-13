@@ -1,4 +1,4 @@
-package com.rdaltio.agendadortarefas.infrastructure.client;
+package com.rdaltio.agendadortarefas.infrastructure.security.client;
 
 import com.rdaltio.agendadortarefas.business.dto.UsuarioDTO;
 import org.springframework.cloud.openfeign.FeignClient;
